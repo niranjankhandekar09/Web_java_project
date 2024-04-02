@@ -23,7 +23,7 @@ public class SwaggerConfig {
 				.name("Apache 2.0")
 				.url("http://springdoc.org")))
 				.externalDocs(new ExternalDocumentation().description("Code With Murad")
-				.url("https://codewithmurad.com"));
+				.url("petshop.com"));
 	}
 	
 	
