@@ -22,7 +22,7 @@ public class SwaggerConfig {
 				.license(new License()
 				.name("Apache 2.0")
 				.url("http://springdoc.org")))
-				.externalDocs(new ExternalDocumentation().description("Code With Murad")
+				.externalDocs(new ExternalDocumentation().description("petshpwebsite")
 				.url("petshop.com"));
 	}
 	
